@@ -1,7 +1,11 @@
 # news-image-20261125 — Sum up 25 November's world news in one image
 
+[![news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?ref=ag1zr0tn)
+[![rank](https://make.fun/badge/news-image-20261125/xoman222-max/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125?ref=ag1zr0tn)
+[![reward](https://make.fun/badge/news-image-20261125/xoman222-max/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?ref=ag1zr0tn)
+
 Entry for the make.fun bounty
-[`news-image-20261125`](https://make.fun/bounty/news-image-20261125):
+[`news-image-20261125`](https://make.fun/bounty/news-image-20261125?ref=ag1zr0tn):
 sum up Wednesday 25 November 2026's world news in one image.
 
 ## What it does
